@@ -1,4 +1,4 @@
-# EntitasRiderFileTemplates
+# Entitas Rider File Templates
 
 Rider file templates for adding Entitas Component and Systems (Reactive, Execute, Initialize and TearDown)
 
